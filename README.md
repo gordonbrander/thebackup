@@ -1,8 +1,10 @@
 # The Backup
 
+Life is good. Emergencies happen. When they do, The Backup is here to help.
+
 ## The Backup Bag
 
-In any old bag — a duffel or one of those re-usable canvas shopping bags — pack the following:
+In any old bag — a duffel or re-usable shopping bag — pack the following:
 
 - [ ] First aid kit
 - [ ] Wet wipes
@@ -28,29 +30,27 @@ In any old bag — a duffel or one of those re-usable canvas shopping bags — p
 - [ ] Warm clothes
 - [ ] Old tennis shoes
 
-## The Backup Tools
-
-Tools to get things back up and running:
+In a box or bag, stash these tools. They are the MVP for getting things back up and running:
 
 - [ ] Work gloves
-- [ ] Pocket Ref
-- [ ] Dust mask
+- [ ] Dust masks
 - [ ] Safety glasses (or old sunglasses)
-- [ ] Hatchet (optional)
 - [ ] Adjustable wrench
 - [ ] Pliers (needle)
 - [ ] Snips
 - [ ] Claw hammer
 - [ ] Pry bar
+- [ ] Hatchet
+- [ ] Pocket Ref
 
 ## The Backup Skills
 
-- [ ] Build a backup bag
-- [ ] Plant a food garden
+- [ ] Build a Backup Bag
+- [ ] Plant a garden, and make a meal from what you harvest
+- [ ] Take a first aid or CPR class
 - [ ] Learn to use a knife safely
 - [ ] Learn to start a fire
 - [ ] Make a tarp shelter
-- [ ] Cook a meal outdoors
 - [ ] Stay outdoors for a couple days
-- [ ] Take a first aid or CPR class
+- [ ] Cook a meal outdoors
 - [ ] Learn about LNT
