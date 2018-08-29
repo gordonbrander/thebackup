@@ -6,29 +6,34 @@ Life is good. Emergencies happen. When they do, The Backup is here to help.
 
 In any old bag — a duffel or re-usable shopping bag — pack the following:
 
-- [ ] First aid kit
-- [ ] Wet wipes
-- [ ] Tampons
-- [ ] Water bottle
-- [ ] Water sanitation tablets
-- [ ] Emergency food (dry beans or canned goods)
-- [ ] Camp stove
-- [ ] Camp pot (or large tin can)
-- [ ] Tarp
-- [ ] Space blankets
-- [ ] Multitool w/ knife
-- [ ] Matches and fire starter
-- [ ] Flashlight + batteries
-- [ ] Can opener
-- [ ] Parachute cord
-- [ ] Superglue
-- [ ] Duct tape
-- [ ] Copies of important docs (birth certificate, passport, emergency contacts)
-- [ ] Maps and compass
-- [ ] Pen & notebook
-- [ ] Rain jacket or poncho
-- [ ] Warm clothes
-- [ ] Old tennis shoes
+| Item | Price |
+|:---|---:|
+| First Aid Kit | $20.00 |
+| Wet Wipes | |
+| Tampons | [$8.25](https://www.amazon.com/Playtex-Flex-Fit-Technology-Multi-Pack-Unscented/dp/B00HT6E522/) |
+| Large water bottle | |
+| Water sanitation tablets | |
+| Emergency food | |
+| Camp stove & fuel | |
+| Camp pot | |
+| Tarp | |
+| Space Blankets | |
+| Multitool w/ Knife | |
+| Matches and Fire Starter | $1 |
+| Flashlight |  |
+| Batteries |  |
+| Can Opener |  |
+| Parachute Cord |  |
+| Superglue | [$3.99](https://www.amazon.com/Gorilla-7800101-Super-Glue-Clear/dp/B001C5I4BO/ref=sr_1_7) |
+| A roll of Duct Tape |  |
+| Copies of important documents - birth certificate, passport, emergency contacts, etc | $1 |
+| Local Maps | $1 - $30 |
+| Compass |  |
+| Pen | $1 |
+| Notebook | $3 |
+| Rain jacket or poncho | |
+| Old warm clothes | |
+| Old tennis shoes | |
 
 In a box or bag, stash these tools. They are the MVP for getting things back up and running:
 
