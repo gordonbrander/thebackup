@@ -39,7 +39,6 @@ In a box or bag, stash these tools. They are the MVP for getting things back up 
 - [ ] Pliers (needle)
 - [ ] Snips
 - [ ] Claw hammer
-- [ ] Pry bar
 - [ ] Hatchet
 - [ ] Pocket Ref
 
