@@ -11,6 +11,7 @@ In any old bag — a duffel or re-usable shopping bag — pack the following:
 - [ ] Tampons
 - [ ] Water bottle
 - [ ] Water sanitation tablets
+- [ ] N95 masks
 - [ ] Emergency food (dry beans or canned goods)
 - [ ] Camp stove
 - [ ] Camp pot (or large tin can)
@@ -33,7 +34,6 @@ In any old bag — a duffel or re-usable shopping bag — pack the following:
 In a box or bag, stash these tools. They are the MVP for getting things back up and running:
 
 - [ ] Work gloves
-- [ ] Dust masks
 - [ ] Safety glasses (or old sunglasses)
 - [ ] Adjustable wrench
 - [ ] Pliers (needle)
